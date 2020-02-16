@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-02-16T20:10:40" hostname="DESKTOP-S7SHRMI" time="0.091">
+  <properties/>
+  <testcase name="CSVtest1" classname="ParserTest" time="0.057"/>
+  <testcase name="CSVtest2" classname="ParserTest" time="0.008"/>
+  <testcase name="JSONtest1" classname="ParserTest" time="0.012"/>
+  <testcase name="JSONtest2" classname="ParserTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
